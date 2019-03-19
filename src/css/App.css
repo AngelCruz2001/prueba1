@@ -9,6 +9,9 @@
 .retraso-2{
   animation-delay: 2s;
  }
+ .retraso-3{
+  animation-delay: 3s;
+ }
 .croquis{
   margin:0% 15%;
   
@@ -16,6 +19,10 @@
 .imgc{
   width:100%;
   max-width: width 600px;
+  height: auto;
+}
+.titulo{
+  text-align: center;
 }
 .App-logo {
   animation: App-logo-spin infinite 20s linear;

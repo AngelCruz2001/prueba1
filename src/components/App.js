@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 // import logo from "../logo.svg";
 import "../css/App.css";
 import "../css/animated.css"
-import "../css/animations.css"
+
 // import Croquis from './Croquis'
 
 class App extends Component {
