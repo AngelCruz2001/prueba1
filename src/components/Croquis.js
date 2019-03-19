@@ -1,18 +1,16 @@
 import React,{Component} from 'react';
-import Css from "../index.css";
+import "../css/App.css";
+import croquis_cbtis from "../img/croquis_cbtis.jpeg"
 class Croquis extends Component{
     render(){
-        var mainBg={
-            backgroundImage:"none",
-            background: "black"
-        }
+
         // document.getElementById('body').style.backgroundImage="none";
         // Css.insertRule("body{backgroundImage:none}",0);
         
         
         return(
-            <div className="">
-               
+            <div className="croquis ">
+               <img src={croquis_cbtis} alt="Imagen del cbtis" className="imgc" />
                
             </div>
         );

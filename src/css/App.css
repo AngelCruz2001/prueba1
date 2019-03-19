@@ -9,11 +9,13 @@
 .retraso-2{
   animation-delay: 2s;
  }
-.Text{
-  color:red;
+.croquis{
+  margin:0% 15%;
+  
 }
-.fondo-croquis{
-  background: red;
+.imgc{
+  width:100%;
+  max-width: width 600px;
 }
 .App-logo {
   animation: App-logo-spin infinite 20s linear;

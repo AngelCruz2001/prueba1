@@ -8,6 +8,7 @@ import "../css/animations.css"
 
 class App extends Component {
   render() {
+    // document.getElementById('body').style.backgroundImage="../img/cbtis130.png/";
     return (
         <div className="App">
           <h1 className="animated fadeInUp retraso-1">Bienvenido al recorrido virtual por el CBTis #130</h1>
